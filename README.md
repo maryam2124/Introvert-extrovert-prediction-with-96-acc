@@ -1,5 +1,5 @@
 # Introvert vs Extrovert Prediction
-
+![Personality Image](https://i.pinimg.com/1200x/fc/f5/65/fcf565c968c5a08280f74540673ad728.jpg)
 This project uses supervised machine learning to predict personality types — Introvert or Extrovert — based on behavioral and psychological traits.
 
 ## 🚀 Project Overview
